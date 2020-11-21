@@ -9,4 +9,4 @@ the process, but in general terms we could conclude the following:
 4. Finally, 95% of the employees are likely to stay whereas 19% are likely to leave; given 82% correctly classified observations.
 
 To conclude, this company should find a balance, between attrition and employees' score. That is, computing a score given the probability of leaving
-times employees' performance, the firm would have a big picture of which employees are worth to retain and which ones not. 
+times employees' performance. Thus, the firm would have a big picture of which employees are worth to retain and which ones are not. 
